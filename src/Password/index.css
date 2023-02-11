@@ -1,0 +1,26 @@
+li {
+  list-style-type: none;
+}
+.list {
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  width: 220px;
+  display: flex;
+  padding: 15px;
+  color: aliceblue;
+  justify-content: space-between;
+  margin: 10px;
+}
+img {
+  height: 25px;
+}
+button {
+  background-color: transparent;
+  border: 0px;
+  align-self: flex-start;
+  margin-right: 10px;
+}
+.stars {
+  width: 160px;
+  height: 20px;
+}
